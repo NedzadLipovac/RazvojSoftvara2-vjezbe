@@ -1,0 +1,17 @@
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\bin\Debug\netcoreapp2.1\eProdaja.WebApi.deps.json
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\bin\Debug\netcoreapp2.1\eProdaja.WebApi.runtimeconfig.json
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\bin\Debug\netcoreapp2.1\eProdaja.WebApi.runtimeconfig.dev.json
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\bin\Debug\netcoreapp2.1\eProdaja.WebApi.dll
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\bin\Debug\netcoreapp2.1\eProdaja.WebApi.pdb
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.csprojAssemblyReference.cache
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.csproj.CoreCompileInputs.cache
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.RazorAssemblyInfo.cache
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.RazorAssemblyInfo.cs
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.AssemblyInfoInputs.cache
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.AssemblyInfo.cs
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.RazorTargetAssemblyInfo.cache
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.dll
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.pdb
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\bin\Debug\netcoreapp2.1\eProdaja.Model.dll
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\bin\Debug\netcoreapp2.1\eProdaja.Model.pdb
+E:\V2017\Projects\eProdaja\eProdaja.WebApi\obj\Debug\netcoreapp2.1\eProdaja.WebApi.csproj.CopyComplete

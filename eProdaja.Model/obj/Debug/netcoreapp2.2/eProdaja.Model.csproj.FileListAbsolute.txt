@@ -1,0 +1,9 @@
+E:\V2017\Projects\eProdaja\eProdaja.Model\bin\Debug\netcoreapp2.2\eProdaja.Model.deps.json
+E:\V2017\Projects\eProdaja\eProdaja.Model\bin\Debug\netcoreapp2.2\eProdaja.Model.dll
+E:\V2017\Projects\eProdaja\eProdaja.Model\bin\Debug\netcoreapp2.2\eProdaja.Model.pdb
+E:\V2017\Projects\eProdaja\eProdaja.Model\obj\Debug\netcoreapp2.2\eProdaja.Model.csproj.CoreCompileInputs.cache
+E:\V2017\Projects\eProdaja\eProdaja.Model\obj\Debug\netcoreapp2.2\eProdaja.Model.AssemblyInfoInputs.cache
+E:\V2017\Projects\eProdaja\eProdaja.Model\obj\Debug\netcoreapp2.2\eProdaja.Model.AssemblyInfo.cs
+E:\V2017\Projects\eProdaja\eProdaja.Model\obj\Debug\netcoreapp2.2\eProdaja.Model.dll
+E:\V2017\Projects\eProdaja\eProdaja.Model\obj\Debug\netcoreapp2.2\eProdaja.Model.pdb
+E:\V2017\Projects\eProdaja\eProdaja.Model\obj\Debug\netcoreapp2.2\eProdaja.Model.csprojAssemblyReference.cache
